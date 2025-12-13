@@ -2,7 +2,7 @@
 title: Oh My Zsh Installation Guide
 description: Step-by-step guide for installing Zsh, Oh My Zsh, and Powerlevel10k theme on Linux systems to enhance terminal experience.
 published: true
-date: 2025-12-13T14:53:50.278Z
+date: 2025-12-13T15:11:28.697Z
 tags: 
 editor: markdown
 dateCreated: 2025-12-13T14:50:56.868Z
