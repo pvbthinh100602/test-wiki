@@ -2,7 +2,7 @@
 title: How to Access BKIT Server via SSH
 description: A step-by-step guide for setting up SSH access to servers using private key authentication, including SSH agent configuration and troubleshooting tips.
 published: true
-date: 2025-11-20T15:03:33.438Z
+date: 2025-12-13T07:05:08.944Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-19T17:28:43.871Z

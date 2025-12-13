@@ -2,7 +2,7 @@
 title: Rails Console Introduction
 description: Introduction to Ruby on Rails framework and Rails console tool for DevOps engineers working with GitLab, OpenProject, and other Rails applications.
 published: true
-date: 2025-11-08T02:51:36.277Z
+date: 2025-12-13T07:05:09.655Z
 tags: 
 editor: markdown
 dateCreated: 2025-11-08T02:39:23.575Z
